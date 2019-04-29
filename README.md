@@ -1,5 +1,5 @@
 # wxrobot
-基于python的微信机器人，猪哥开发环境Macos+Python3.7+Pycharm
+基于python的微信机器人
 
 ## 一、启动步骤
 1.下载wxpy库 `pip3 install -U wxpy -i "https://pypi.doubanio.com/simple/"`，使用的是国内源，如果使用anaconda直接在pycharm里面下载，注意项目环境问题！
